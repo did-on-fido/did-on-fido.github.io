@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "3be74989a84792d2e885d6d7afbf3d17",
-    "url": "/static/media/uport-app-icon.3be74989.svg"
+    "revision": "03830ca97395bf3a85683e922e3c3fe0",
+    "url": "/static/media/city-id-icon.03830ca9.svg"
   },
   {
-    "revision": "7ccd58475838f16a0b6b",
+    "revision": "f3ad6e50bea8a1a38e90",
     "url": "/static/css/main.b0b63eda.chunk.css"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "7aa7b957a2b6dcccd84e",
-    "url": "/static/js/2.ea1e8641.chunk.js"
+    "revision": "23b028ca6603f80246da",
+    "url": "/static/js/2.cab9de57.chunk.js"
   },
   {
     "revision": "09cfe256212b76eed2c5e1cbde567ed0",
     "url": "/static/media/loading.09cfe256.svg"
-  },
-  {
-    "revision": "1075a32ae6a393c30e0dd2b45c14bee6",
-    "url": "/static/media/uport-logo.1075a32a.svg"
   },
   {
     "revision": "5c45c28a8e77cbf26061b5f1ce9c81db",
@@ -32,8 +28,16 @@ self.__precacheManifest = [
     "url": "/static/media/reload.066d8846.svg"
   },
   {
+    "revision": "71bd417f0b4208d1d52aeac1c49ea335",
+    "url": "/static/media/NHIS_logo.71bd417f.png"
+  },
+  {
     "revision": "45dd569ba498e061b48e251dcbd1f1c3",
     "url": "/static/media/uport-icon-white.45dd569b.svg"
+  },
+  {
+    "revision": "1075a32ae6a393c30e0dd2b45c14bee6",
+    "url": "/static/media/uport-logo.1075a32a.svg"
   },
   {
     "revision": "30bcab25772fe75ef5eeeaeaa47fb4bf",
@@ -56,12 +60,12 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-4.84f8d31f.svg"
   },
   {
-    "revision": "03830ca97395bf3a85683e922e3c3fe0",
-    "url": "/static/media/city-id-icon.03830ca9.svg"
+    "revision": "f3ad6e50bea8a1a38e90",
+    "url": "/static/js/main.16e94f81.chunk.js"
   },
   {
-    "revision": "7ccd58475838f16a0b6b",
-    "url": "/static/js/main.d237e39d.chunk.js"
+    "revision": "3be74989a84792d2e885d6d7afbf3d17",
+    "url": "/static/media/uport-app-icon.3be74989.svg"
   },
   {
     "revision": "5f54095e178a888b118a75d9bebac876",
@@ -116,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/smiley-face-diploma.12b3afd3.svg"
   },
   {
-    "revision": "47da8b084b5cb2e0584f20811f5de7e3",
+    "revision": "164efdd13939a7449e22db94ce6c2a10",
     "url": "/index.html"
   }
 ];
