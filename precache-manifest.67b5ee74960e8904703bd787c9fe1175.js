@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "03830ca97395bf3a85683e922e3c3fe0",
-    "url": "/static/media/city-id-icon.03830ca9.svg"
+    "revision": "84f8d31f0d30013cbbfc3d52276a61ec",
+    "url": "/static/media/dummy-content-4.84f8d31f.svg"
   },
   {
-    "revision": "f3ad6e50bea8a1a38e90",
+    "revision": "0cfd1f7745288ba7c989",
     "url": "/static/css/main.b0b63eda.chunk.css"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "23b028ca6603f80246da",
-    "url": "/static/js/2.cab9de57.chunk.js"
+    "revision": "8c346018bffc18e9ec99",
+    "url": "/static/js/2.63063ea5.chunk.js"
   },
   {
     "revision": "09cfe256212b76eed2c5e1cbde567ed0",
     "url": "/static/media/loading.09cfe256.svg"
-  },
-  {
-    "revision": "5c45c28a8e77cbf26061b5f1ce9c81db",
-    "url": "/static/media/arrow-left.5c45c28a.svg"
   },
   {
     "revision": "066d8846ccbbc22a75bafbf6c89a6a9b",
@@ -44,6 +40,10 @@ self.__precacheManifest = [
     "url": "/static/media/wave.30bcab25.svg"
   },
   {
+    "revision": "5c45c28a8e77cbf26061b5f1ce9c81db",
+    "url": "/static/media/arrow-left.5c45c28a.svg"
+  },
+  {
     "revision": "e80ee067d0d53142aa119767c06dbafd",
     "url": "/static/media/dummy-content-1.e80ee067.svg"
   },
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-3.1a0eb87d.svg"
   },
   {
-    "revision": "84f8d31f0d30013cbbfc3d52276a61ec",
-    "url": "/static/media/dummy-content-4.84f8d31f.svg"
+    "revision": "0cfd1f7745288ba7c989",
+    "url": "/static/js/main.c785ca65.chunk.js"
   },
   {
-    "revision": "f3ad6e50bea8a1a38e90",
-    "url": "/static/js/main.16e94f81.chunk.js"
+    "revision": "03830ca97395bf3a85683e922e3c3fe0",
+    "url": "/static/media/city-id-icon.03830ca9.svg"
   },
   {
     "revision": "3be74989a84792d2e885d6d7afbf3d17",
@@ -96,20 +96,12 @@ self.__precacheManifest = [
     "url": "/static/media/smiley-face-city.5e8f0863.svg"
   },
   {
-    "revision": "d4a29b180b904e4d5531b4da5bfe28fd",
-    "url": "/static/media/accept-attestation.d4a29b18.svg"
+    "revision": "5bdaf3339dc905ff600a623a21f0f54a",
+    "url": "/static/media/accept-attestation.5bdaf333.png"
   },
   {
     "revision": "5698a88f82a9752ba152d51554a302eb",
     "url": "/static/media/congratulations-city.5698a88f.svg"
-  },
-  {
-    "revision": "742adc12e657b6a98ed77431a7759489",
-    "url": "/static/media/dev-icon.742adc12.svg"
-  },
-  {
-    "revision": "93997e0350e04192e5101477abeb5c50",
-    "url": "/static/media/citizen-icon.93997e03.svg"
   },
   {
     "revision": "ce12e799be0e589343139e48d87d3ed0",
@@ -120,7 +112,7 @@ self.__precacheManifest = [
     "url": "/static/media/smiley-face-diploma.12b3afd3.svg"
   },
   {
-    "revision": "164efdd13939a7449e22db94ce6c2a10",
+    "revision": "a29940e462ff32f7284eb6bcd0f3998b",
     "url": "/index.html"
   }
 ];
