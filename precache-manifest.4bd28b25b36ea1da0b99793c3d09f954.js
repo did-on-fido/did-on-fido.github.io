@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "84f8d31f0d30013cbbfc3d52276a61ec",
-    "url": "/static/media/dummy-content-4.84f8d31f.svg"
+    "revision": "1a0eb87d9e95f06c07d3d94fbb641fff",
+    "url": "/static/media/dummy-content-3.1a0eb87d.svg"
   },
   {
-    "revision": "2f63e4b52a025f8cc118",
+    "revision": "dc7346362684894bf7b3",
     "url": "/static/css/main.b0b63eda.chunk.css"
   },
   {
@@ -52,24 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-2.02195639.svg"
   },
   {
-    "revision": "1a0eb87d9e95f06c07d3d94fbb641fff",
-    "url": "/static/media/dummy-content-3.1a0eb87d.svg"
+    "revision": "dc7346362684894bf7b3",
+    "url": "/static/js/main.80a5a7c2.chunk.js"
   },
   {
-    "revision": "2f63e4b52a025f8cc118",
-    "url": "/static/js/main.6a2ec293.chunk.js"
-  },
-  {
-    "revision": "03830ca97395bf3a85683e922e3c3fe0",
-    "url": "/static/media/city-id-icon.03830ca9.svg"
-  },
-  {
-    "revision": "3be74989a84792d2e885d6d7afbf3d17",
-    "url": "/static/media/uport-app-icon.3be74989.svg"
-  },
-  {
-    "revision": "5f54095e178a888b118a75d9bebac876",
-    "url": "/static/media/services-icon.5f54095e.svg"
+    "revision": "84f8d31f0d30013cbbfc3d52276a61ec",
+    "url": "/static/media/dummy-content-4.84f8d31f.svg"
   },
   {
     "revision": "696d2d44fd2f800e2d328ec01cc67efe",
@@ -112,7 +100,7 @@ self.__precacheManifest = [
     "url": "/static/media/smiley-face-diploma.12b3afd3.svg"
   },
   {
-    "revision": "83e3d83ffd232ae26a0e04d414e06d07",
+    "revision": "4ebfb071a374daac8616cc5957907d83",
     "url": "/index.html"
   }
 ];
