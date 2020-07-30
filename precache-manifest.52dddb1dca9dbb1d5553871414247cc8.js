@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-3.1a0eb87d.svg"
   },
   {
-    "revision": "90d8ed35f4bf53776de2",
+    "revision": "a4f70769a46d5088a5e7",
     "url": "/static/css/main.b0b63eda.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-2.02195639.svg"
   },
   {
-    "revision": "90d8ed35f4bf53776de2",
-    "url": "/static/js/main.f93dff16.chunk.js"
+    "revision": "a4f70769a46d5088a5e7",
+    "url": "/static/js/main.edd13e0b.chunk.js"
   },
   {
     "revision": "84f8d31f0d30013cbbfc3d52276a61ec",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/static/media/smiley-face-diploma.12b3afd3.svg"
   },
   {
-    "revision": "4c9f6351a858bdcda797db07f52161ac",
+    "revision": "eb4a009e02b4b832d1286b2d45eea54e",
     "url": "/index.html"
   }
 ];
