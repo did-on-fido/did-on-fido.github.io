@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-3.1a0eb87d.svg"
   },
   {
-    "revision": "8beb04baa16ca0a0d64f",
+    "revision": "90d8ed35f4bf53776de2",
     "url": "/static/css/main.b0b63eda.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "c0100d43d3e6cb17bcee",
-    "url": "/static/js/2.ea63bee3.chunk.js"
+    "revision": "48c7415b14edcad2c0d1",
+    "url": "/static/js/2.2a07abb8.chunk.js"
   },
   {
     "revision": "09cfe256212b76eed2c5e1cbde567ed0",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/static/media/reload.066d8846.svg"
   },
   {
-    "revision": "71bd417f0b4208d1d52aeac1c49ea335",
-    "url": "/static/media/NHIS_logo.71bd417f.png"
-  },
-  {
     "revision": "45dd569ba498e061b48e251dcbd1f1c3",
     "url": "/static/media/uport-icon-white.45dd569b.svg"
   },
   {
     "revision": "1075a32ae6a393c30e0dd2b45c14bee6",
     "url": "/static/media/uport-logo.1075a32a.svg"
+  },
+  {
+    "revision": "71bd417f0b4208d1d52aeac1c49ea335",
+    "url": "/static/media/NHIS_logo.71bd417f.png"
   },
   {
     "revision": "30bcab25772fe75ef5eeeaeaa47fb4bf",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/dummy-content-2.02195639.svg"
   },
   {
-    "revision": "8beb04baa16ca0a0d64f",
-    "url": "/static/js/main.ceed7335.chunk.js"
+    "revision": "90d8ed35f4bf53776de2",
+    "url": "/static/js/main.f93dff16.chunk.js"
   },
   {
     "revision": "84f8d31f0d30013cbbfc3d52276a61ec",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/static/media/smiley-face-diploma.12b3afd3.svg"
   },
   {
-    "revision": "225963d7c2160afa366261558fa48996",
+    "revision": "4c9f6351a858bdcda797db07f52161ac",
     "url": "/index.html"
   }
 ];
